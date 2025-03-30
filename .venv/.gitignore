@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+venv/
+env/
+*.venv/
+.idea/
+
+# Logs and caches
+*.log
+*.cache
